@@ -1,15 +1,112 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73A9CAD8-C874-44BB-B1F4-0B3B8F2D592D}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{B04910F7-CDD5-4E8B-B52A-62D8337ED64F}"
+	ProjectSection(SolutionItems) = preProject
+		css\bootstrap.css = css\bootstrap.css
+		css\bootstrap.min.css = css\bootstrap.min.css
+		css\font-awesome.css = css\font-awesome.css
+		css\font-awesome.min.css = css\font-awesome.min.css
+		css\stylish-portfolio.css = css\stylish-portfolio.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{AFC65E27-DECA-453B-A2CA-280A67101F2E}"
+	ProjectSection(SolutionItems) = preProject
+		img\portfolio-1.jpg = img\portfolio-1.jpg
+		img\portfolio-2.jpg = img\portfolio-2.jpg
+		img\portfolio-3.jpg = img\portfolio-3.jpg
+		img\portfolio-4.jpg = img\portfolio-4.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{A569CEBD-B327-4ED4-A379-C6E439B5530F}"
+	ProjectSection(SolutionItems) = preProject
+		js\bootstrap.js = js\bootstrap.js
+		js\bootstrap.min.js = js\bootstrap.min.js
+		js\jquery.js = js\jquery.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Store", "Store", "{0C069393-298C-43E6-AE5B-F2771D59FEEB}"
+	ProjectSection(SolutionItems) = preProject
+		Store\index.html = Store\index.html
+		Store\main.css = Store\main.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "font-awesome", "font-awesome", "{D73A3D6D-17C6-4526-A422-0D87DD8F14A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{987696F8-F99C-42AC-A072-B3B0BC57596B}"
+	ProjectSection(SolutionItems) = preProject
+		fonts\glyphicons-halflings-regular.eot = fonts\glyphicons-halflings-regular.eot
+		fonts\glyphicons-halflings-regular.svg = fonts\glyphicons-halflings-regular.svg
+		fonts\glyphicons-halflings-regular.ttf = fonts\glyphicons-halflings-regular.ttf
+		fonts\glyphicons-halflings-regular.woff = fonts\glyphicons-halflings-regular.woff
+		fonts\glyphicons-halflings-regular.woff2 = fonts\glyphicons-halflings-regular.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{D6928D75-53A5-4D0A-930B-564D3CD0A524}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\css\font-awesome.css = font-awesome\css\font-awesome.css
+		font-awesome\css\font-awesome.min.css = font-awesome\css\font-awesome.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{C48A1AA6-7141-436F-848C-48AF2BCCE9FD}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\fonts\fontawesome-webfont.eot = font-awesome\fonts\fontawesome-webfont.eot
+		font-awesome\fonts\fontawesome-webfont.svg = font-awesome\fonts\fontawesome-webfont.svg
+		font-awesome\fonts\fontawesome-webfont.ttf = font-awesome\fonts\fontawesome-webfont.ttf
+		font-awesome\fonts\fontawesome-webfont.woff = font-awesome\fonts\fontawesome-webfont.woff
+		font-awesome\fonts\fontawesome-webfont.woff2 = font-awesome\fonts\fontawesome-webfont.woff2
+		font-awesome\fonts\FontAwesome.otf = font-awesome\fonts\FontAwesome.otf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "less", "less", "{B2BE94D4-2EF7-4B15-8C08-8262C0A76C04}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\less\animated.less = font-awesome\less\animated.less
+		font-awesome\less\bordered-pulled.less = font-awesome\less\bordered-pulled.less
+		font-awesome\less\core.less = font-awesome\less\core.less
+		font-awesome\less\fixed-width.less = font-awesome\less\fixed-width.less
+		font-awesome\less\font-awesome.less = font-awesome\less\font-awesome.less
+		font-awesome\less\icons.less = font-awesome\less\icons.less
+		font-awesome\less\larger.less = font-awesome\less\larger.less
+		font-awesome\less\list.less = font-awesome\less\list.less
+		font-awesome\less\mixins.less = font-awesome\less\mixins.less
+		font-awesome\less\path.less = font-awesome\less\path.less
+		font-awesome\less\rotated-flipped.less = font-awesome\less\rotated-flipped.less
+		font-awesome\less\stacked.less = font-awesome\less\stacked.less
+		font-awesome\less\variables.less = font-awesome\less\variables.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scss", "scss", "{17C69EA4-39E1-419A-A070-15F855313976}"
+	ProjectSection(SolutionItems) = preProject
+		font-awesome\scss\_animated.scss = font-awesome\scss\_animated.scss
+		font-awesome\scss\_bordered-pulled.scss = font-awesome\scss\_bordered-pulled.scss
+		font-awesome\scss\_core.scss = font-awesome\scss\_core.scss
+		font-awesome\scss\_fixed-width.scss = font-awesome\scss\_fixed-width.scss
+		font-awesome\scss\_icons.scss = font-awesome\scss\_icons.scss
+		font-awesome\scss\_larger.scss = font-awesome\scss\_larger.scss
+		font-awesome\scss\_list.scss = font-awesome\scss\_list.scss
+		font-awesome\scss\_mixins.scss = font-awesome\scss\_mixins.scss
+		font-awesome\scss\_path.scss = font-awesome\scss\_path.scss
+		font-awesome\scss\_rotated-flipped.scss = font-awesome\scss\_rotated-flipped.scss
+		font-awesome\scss\_stacked.scss = font-awesome\scss\_stacked.scss
+		font-awesome\scss\_variables.scss = font-awesome\scss\_variables.scss
+		font-awesome\scss\font-awesome.scss = font-awesome\scss\font-awesome.scss
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6928D75-53A5-4D0A-930B-564D3CD0A524} = {D73A3D6D-17C6-4526-A422-0D87DD8F14A8}
+		{C48A1AA6-7141-436F-848C-48AF2BCCE9FD} = {D73A3D6D-17C6-4526-A422-0D87DD8F14A8}
+		{B2BE94D4-2EF7-4B15-8C08-8262C0A76C04} = {D73A3D6D-17C6-4526-A422-0D87DD8F14A8}
+		{17C69EA4-39E1-419A-A070-15F855313976} = {D73A3D6D-17C6-4526-A422-0D87DD8F14A8}
 	EndGlobalSection
 EndGlobal
